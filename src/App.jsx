@@ -1,4 +1,4 @@
-import Wallet from "./components/injectedwallet"
+import Wallet from "./components/injectedWallet"
 
 
 
